@@ -1,7 +1,7 @@
 # assume torch is already installed
 
 # pycolmap for data parsing
-git+https://github.com/rmbrualla/pycolmap@cc7ea4b7301720ac29287dbe450952511b32125e
+git+https://github.com/teju81/pycolmap_parser.git@9357a07fb0bab615354c9ae9ce7437c01f59860f
 # (optional) nerfacc for torch version rasterization 
 # git+https://github.com/nerfstudio-project/nerfacc
 
